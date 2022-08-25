@@ -1,1 +1,1 @@
-# color-changer-js
+# Color-Changer
